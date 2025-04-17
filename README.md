@@ -1,6 +1,5 @@
 Hi there 👋
-This is my test file created for study purposes. 
-It's not intended for use in any other context.
+My name is Atanas Atanassov
 <!--
 **atanas60/atanas60** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
