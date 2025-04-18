@@ -1,3 +1,6 @@
+<p>
+  <img src="https://github.com/atanas60/atanas60/blob/main/IMG_2224.jpg?raw=true" alt="Atanas Atanassov" width="200" align="right" style="margin-left: 20px;">
+</p>
 Hi there 👋
 <br>
 My name is Atanas Atanassov
