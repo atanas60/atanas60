@@ -2,6 +2,8 @@ Hi there 👋
 <br>
 My name is Atanas Atanassov
 
+![IMG_2224](https://github.com/user-attachments/assets/051c5f34-c02f-4bd7-8089-334bafc55b09)
+
 email: atanas1964@gmail.com
 <br>
 Website: linkedin.com/in/atanasatanassov
